@@ -61,8 +61,3 @@ void  `RtmpPlayer_Stop`(void* pRtmpPlayer);
 @param pRtmpPlayer: 模块指针<br>
 @return: RTMP连接状态<br>
 RtmpPlay_Status  `RtmpPlayer_GetRtmpStatus`(void* pRtmpPlayer);
-
-### 
-应用案例：i8财经直播 http://www.i8zhibo.cn/
-
-### 本库可免费使用，若需要定制服务与技术支持请联系 www.mediapro.cc
